@@ -15,7 +15,7 @@ function App() {
       
     </div>
      <hr />
-     <p className='container'>&copy;Ceren Çelik</p>
+     <p className='container'> <img src="./public/cerenlogo.png" width="50px" /> &copy;Ceren Çelik</p>
    </>
   )
 }
